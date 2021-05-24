@@ -1,0 +1,154 @@
+{
+    "emotions" : [
+        {
+            "title":"Sad",
+            "icon" : "😟",
+            "positive" : false,
+            "links" : [
+                {"title" : "Get The T-Shirt", "icon": "👕", "url" : ""},
+                {"title" : "Get The Mug", "icon": "☕", "url" : ""}
+            ] 
+        },
+        {
+            "title":"Good",
+            "icon" : "😊",
+            "positive" : true,
+            "links" : [
+                {"title" : "Get The T-Shirt", "icon": "👕", "url" : ""},
+                {"title" : "Get The Mug", "icon": "☕", "url" : ""}
+            ] 
+        },
+        {
+            "title":"Stressed",
+            "icon" : "😣",
+            "positive" : false,
+            "links" : [
+                {"title" : "Get The T-Shirt", "icon": "👕", "url" : ""},
+                {"title" : "Get The Mug", "icon": "☕", "url" : ""}
+            ] 
+        
+        },
+        {
+            "title":"Happy",
+            "icon" : "😁",
+            "positive" : true,
+            "links" : [
+                {"title" : "Get The T-Shirt", "icon": "👕", "url" : ""},
+                {"title" : "Get The Mug", "icon": "☕", "url" : ""}
+            ] 
+        },
+        {
+            "title":"Tired",
+            "icon" : "😔",
+            "positive" : false,
+            "links" : [
+                {"title" : "Get The T-Shirt", "icon": "👕", "url" : ""},
+                {"title" : "Get The Mug", "icon": "☕", "url" : ""}
+            ] 
+        },
+        {
+            "title":"Excited",
+            "icon" : "🤩",
+            "positive" : true,
+            "links" : [
+                {"title" : "Get The T-Shirt", "icon": "👕", "url" : ""},
+                {"title" : "Get The Mug", "icon": "☕", "url" : ""}
+            ] 
+        },
+        {
+            "title":"Angry",
+            "icon" : "😡",
+            "positive" : false,
+            "links" : [
+                {"title" : "Get The T-Shirt", "icon": "👕", "url" : ""},
+                {"title" : "Get The Mug", "icon": "☕", "url" : ""}
+            ] 
+        },
+        {
+            "title":"Loved",
+            "icon" : "🥰",
+            "positive" : true,
+            "links" : [
+                {"title" : "Get The T-Shirt", "icon": "👕", "url" : ""},
+                {"title" : "Get The Mug", "icon": "☕", "url" : ""}
+            ] 
+        },
+        {
+            "title":"Thankful",
+            "icon" : "😘",
+            "positive" : true,
+            "links" : [
+                {"title" : "Get The T-Shirt", "icon": "👕", "url" : ""},
+                {"title" : "Get The Mug", "icon": "☕", "url" : ""}
+            ] 
+        },
+        {
+            "title":"Emotional",
+            "icon" : "🥺",
+            "positive" : false,
+            "links" : [
+                {"title" : "Get The T-Shirt", "icon": "👕", "url" : ""},
+                {"title" : "Get The Mug", "icon": "☕", "url" : ""}
+            ] 
+        },
+        {
+            "title":"Fantastic",
+            "icon" : "😎",
+            "positive" : true,
+            "links" : [
+                {"title" : "Get The T-Shirt", "icon": "👕", "url" : ""},
+                {"title" : "Get The Mug", "icon": "☕", "url" : ""}
+            ] 
+        },
+        {
+            "title":"Exhausted",
+            "icon" : "😫",
+            "positive" : false,
+            "links" : [
+                {"title" : "Get The T-Shirt", "icon": "👕", "url" : ""},
+                {"title" : "Get The Mug", "icon": "☕", "url" : ""}
+            ] 
+        },
+        {
+            "title":"Chill",
+            "icon" : "😌",
+            "positive" : true,
+            "links" : [
+                {"title" : "Get The T-Shirt", "icon": "👕", "url" : ""},
+                {"title" : "Get The Mug", "icon": "☕", "url" : ""}
+            ] 
+        },
+        {
+            "title":"Annoyed",
+            "icon" : "😤",
+            "positive" : false,
+            "links" : [
+                {"title" : "Get The T-Shirt", "icon": "👕", "url" : ""},
+                {"title" : "Get The Mug", "icon": "☕", "url" : ""}
+            ] 
+        },	
+        {
+            "title":"Drained",
+            "icon" : "😩",
+            "positive" : false,
+            "links" : [
+                {"title" : "Get The T-Shirt", "icon": "👕", "url" : ""},
+                {"title" : "Get The Mug", "icon": "☕", "url" : ""}
+            ] 
+        }	
+    ],
+    "backgrounds" : [
+        {"color":"#F54C00", "light-content" : true},
+        {"color":"#FBCF41", "light-content" : false},
+        {"color":"#D2151F", "light-content" : true},
+        {"color":"#4F4B48", "light-content" : true},
+        {"color":"#095097", "light-content" : true},
+        {"color":"#671E43", "light-content" : true},
+        {"color":"#496C88", "light-content" : true},
+        {"color":"#FFB81D", "light-content" : false},
+        {"color":"#00AE41", "light-content" : false},
+        {"color":"#7BA4DB", "light-content" : false},
+        {"color":"#CABFAD", "light-content" : true},
+        {"color":"#B4B3B2", "light-content" : true}
+    ]
+}
