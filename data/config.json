@@ -130,7 +130,7 @@
         },
         {
             "title":"Positive",
-            "icon" : "😊",
+            "icon" : "☺️",
             "positive" : true,
             "links" : [
                 {"title" : "Get The T-Shirt", "icon": "👕", "url" : "https://its-totally-ok.myshopify.com/products/its-totally-ok-to-feel-positive-☺%EF%B8%8F"}
