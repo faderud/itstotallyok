@@ -3,162 +3,104 @@
         {
             "title":"Awesome",
             "icon" : "😎",
-            "positive" : true,
-            "links" : [
-                {"title" : "Get The T-Shirt", "icon": "👕", "url" : "https://its-totally-ok.myshopify.com/products/its-totally-ok-to-feel-awesome-😎"}
-            ]
+            "positive" : true
         },
         {
             "title":"Angry",
             "icon" : "😡",
-            "positive" : false,
-            "links" : [
-                {"title" : "Get The T-Shirt", "icon": "👕", "url" : "https://its-totally-ok.myshopify.com/products/its-totally-ok-to-feel-angry-😡"}
-            ]
+            "positive" : false
+
         },
         {
             "title":"Chill",
             "icon" : "😌",
-            "positive" : true,
-            "links" : [
-                {"title" : "Get The T-Shirt", "icon": "👕", "url" : "https://its-totally-ok.myshopify.com/products/its-totally-ok-to-feel-chill-😌"}
-            ]
+            "positive" : true
+
         },
         {
             "title":"Annoyed",
             "icon" : "😒",
-            "positive" : false,
-            "links" : [
-                {"title" : "Get The T-Shirt", "icon": "👕", "url" : "https://its-totally-ok.myshopify.com/products/its-totally-ok-to-feel-annoyed-😒"}
-            ]
+            "positive" : false
         },
         {
             "title":"Excited",
             "icon" : "🤩",
-            "positive" : true,
-            "links" : [
-                {"title" : "Get The T-Shirt", "icon": "👕", "url" : "https://its-totally-ok.myshopify.com/products/its-totally-ok-to-feel-excited"}
-            ]
+            "positive" : true
         },
         {
             "title":"Drained",
             "icon" : "😩",
-            "positive" : false,
-            "links" : [
-                {"title" : "Get The T-Shirt", "icon": "👕", "url" : "https://its-totally-ok.myshopify.com/products/its-totally-ok-to-feel-drained-😩"}
-            ]
+            "positive" : false
         },
         {
             "title":"Fabulous",
             "icon" : "🤠",
-            "positive" : true,
-            "links" : [
-                {"title" : "Get The T-Shirt", "icon": "👕", "url" : "https://its-totally-ok.myshopify.com/products/its-totally-ok-to-feel-fabulous"}
-            ]
+            "positive" : true
         },
         {
             "title":"Emotional",
             "icon" : "🥺",
-            "positive" : false,
-            "links" : [
-                {"title" : "Get The T-Shirt", "icon": "👕", "url" : "https://its-totally-ok.myshopify.com/products/its-totally-ok-to-feel-emotional"}
-            ]
+            "positive" : false
         },
         {
             "title":"Good",
             "icon" : "😊",
-            "positive" : true,
-            "links" : [
-                {"title" : "Get The T-Shirt", "icon": "👕", "url" : "https://its-totally-ok.myshopify.com/products/its-totally-ok-to-feel-good-☺%EF%B8%8F"}
-            ]
+            "positive" : true
         },
         {
             "title":"Exhausted",
             "icon" : "😫",
-            "positive" : false,
-            "links" : [
-                {"title" : "Get The T-Shirt", "icon": "👕", "url" : "https://its-totally-ok.myshopify.com/products/its-totally-ok-to-feel-exhausted-😫"}
-            ]
+            "positive" : false
         },
         {
             "title":"Happy",
             "icon" : "😁",
-            "positive" : true,
-            "links" : [
-                {"title" : "Get The T-Shirt", "icon": "👕", "url" : "https://its-totally-ok.myshopify.com/products/its-totally-ok-to-feel-happy-😁"}
-            ]
+            "positive" : true
         },
         {
             "title":"Heartbroken",
             "icon" : "💔",
-            "positive" : false,
-            "links" : [
-                {"title" : "Get The T-Shirt", "icon": "👕", "url" : "https://its-totally-ok.myshopify.com/products/its-totally-ok-to-feel-heartbroken-💔"}
-            ]
+            "positive" : false
         },
         {
             "title":"Loved",
             "icon" : "🥰",
-            "positive" : true,
-            "links" : [
-                {"title" : "Get The T-Shirt", "icon": "👕", "url" : "https://its-totally-ok.myshopify.com/products/its-totally-ok-to-feel-loved"}
-            ]
+            "positive" : true
         },
         {
             "title":"Sad",
             "icon" : "😞",
-            "positive" : false,
-            "links" : [
-                {"title" : "Get The T-Shirt", "icon": "👕", "url" : "https://its-totally-ok.myshopify.com/products/its-totally-ok-to-feel-sad-☹%EF%B8%8F"}
-            ]
+            "positive" : false
         },
         {
             "title":"Motivated",
             "icon" : "🤨",
-            "positive" : true,
-            "links" : [
-                {"title" : "Get The T-Shirt", "icon": "👕", "url" : "https://its-totally-ok.myshopify.com/products/its-totally-ok-to-feel-motivated"}
-            ]
+            "positive" : true
         },
         {
             "title":"Stressed",
             "icon" : "😣",
-            "positive" : false,
-            "links" : [
-                {"title" : "Get The T-Shirt", "icon": "👕", "url" : "https://its-totally-ok.myshopify.com/products/its-totally-ok-to-feel-stressed-😣"}
-            ]
+            "positive" : false
         },
         {
             "title":"Positive",
             "icon" : "☺️",
-            "positive" : true,
-            "links" : [
-                {"title" : "Get The T-Shirt", "icon": "👕", "url" : "https://its-totally-ok.myshopify.com/products/its-totally-ok-to-feel-positive-☺%EF%B8%8F"}
-            ]
+            "positive" : true
         },
         {
             "title":"Tired",
             "icon" : "😔",
-            "positive" : false,
-            "links" : [
-                {"title" : "Get The T-Shirt", "icon": "👕", "url" : "https://its-totally-ok.myshopify.com/products/its-totally-ok-to-feel-tired-😔"}
-            ]
+            "positive" : false
         },
         {
             "title":"Thankful",
             "icon" : "😘",
-            "positive" : true,
-            "links" : [
-                {"title" : "Get The T-Shirt", "icon": "👕", "url" : "https://its-totally-ok.myshopify.com/products/its-totally-ok-to-feel-thankful-😘"}
-            ]
+            "positive" : true
         },
         {
             "title":"Worried",
             "icon" : "🙁",
-            "positive" : false,
-            "links" : [
-                {"title" : "Get The T-Shirt", "icon": "👕", "url" : "https://its-totally-ok.myshopify.com/products/its-totally-ok-to-feel-worried-🙁"}
-            ]
+            "positive" : false
         }
     ],
     "backgrounds" : [
